@@ -50,8 +50,7 @@
   <code><img title="PostgreSQL" height="50" src="images/postgresql.png" alt=""></code>
   <code><img title="MySQL" height="50" src="images/mysql.png" alt=""></code>  
   <code><img title="Swagger" height="50" src="images/swagger.png" alt=""></code>
-  <code><img title="OpenApi" height="50" src="images/openapi.png" alt=""></code>
-  <code><img title="Liquibase" height="50" src="images/liquibase.png" alt=""></code>
+  <code><img title="OpenApi" height="50" src="images/openapi.png" alt=""></code>  
   <code><img title="Yaml" height="50" src="images/yaml.png" alt=""></code>
   <code><img title="XML" height="50" src="images/xml.png" alt=""></code>
   <code><img title="JSON" height="50" src="images/json.png" alt=""></code>
