@@ -68,5 +68,5 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Votinova&hide=stars,contribs&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Votinova&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Votinova&hide=stars&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Votinova&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)
 
