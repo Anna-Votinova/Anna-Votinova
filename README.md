@@ -15,7 +15,7 @@
 ### My projects
 
 - [Credit Conveyor](https://github.com/Anna-Votinova/conveyor) - a mini bank prototype for issuing credits
-- [Explore With Me](https://github.com/Anna-Votinova/java-explore-with-me) - an analog of event poster
+- [Explore With Me](https://github.com/Anna-Votinova/java-explore-with-me) - an analogue of event poster
 - [Share It](https://github.com/Anna-Votinova/shareit) - a platform, where you can share your items with other users
 - [Filmorate](https://github.com/Anna-Votinova/java-filmorate) - a movie rating service
 - [Task Manager](https://github.com/Anna-Votinova/java-sprint2-hw) - a task planning tool
@@ -68,5 +68,5 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Votinova&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Votinova)](https://github.com/Anna-Votinova/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Votinova&hide=stars,contribs&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Votinova&theme=tokyonight)](https://github.com/Anna-Votinova/github-readme-stats)
 
