@@ -25,10 +25,7 @@
 
 ### What nowadays
 
-- 💻 I'm currently working on a video content generation startup with colleagues from Belarus
-- 🚀 I’m currently learning CI/CD
-- ❤️ I’m looking for my first official team for perfect, efficient and interesting programming
-- ✨ After some time I'd like to develop in the field of cybersecurity and ML
+- 💻 ❤ I work for [Neoflex](https://www.neoflex.ru/)
 
 ---
 
