@@ -23,12 +23,6 @@
 
 ---
 
-### What nowadays
-
-- 💻 ❤ I work for [Neoflex](https://www.neoflex.ru/)
-
----
-
 ### My stack
 
 <img title="Java" height="50" src="images/java-svgrepo-com.svg">&nbsp;
